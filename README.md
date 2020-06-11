@@ -3,7 +3,7 @@
 <br>
 <strong>fclose():</strong>
 <br>
-This function closes the file of pointed by file pointer fp in the first description
+<p>This function closes the file of pointed by file pointer fp in the first description</p>
 <br>
 -Syntax of fclose();
 -fclose(fp);
