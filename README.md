@@ -6,8 +6,8 @@
 <p>This function closes the file of pointed by file pointer fp in the first description</p>
 <br>
 <pre>
-Syntax of fclose();
-fclose(fp);
+	Syntax of fclose();
+	fclose(fp);
 </pre>
 <br>
 <strong>fgets():</strong>
@@ -20,4 +20,14 @@ fclose(fp);
 <pre>
 	Syntax of fgets():
 	fgets(buffer,size,fp);
+</pre>
+<strong>fprintf();</strong>
+<br>
+<p>
+This function writes string into the file by using the fp. We use that in a C program below.
+</p>
+<br>
+<pre>
+	Syntax of fprintf():
+	fprintf(fp,"text %d",buffer_variable_name);
 </pre>
