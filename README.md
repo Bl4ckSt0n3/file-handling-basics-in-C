@@ -16,3 +16,8 @@ fclose(fp);
     This function is used to read a file into the buffer like an array or etc. 
 		We are using that function as below and again by fp we set in the first description.
 </p>
+<br>
+<pre>
+	Syntax of fgets():
+	fgets(buffer,size,fp);
+</pre>
