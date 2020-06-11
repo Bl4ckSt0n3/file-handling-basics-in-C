@@ -9,3 +9,10 @@
 Syntax of fclose();
 fclose(fp);
 </pre>
+<br>
+<strong>fgets():</strong>
+<br>
+<p>
+    This function is used to read a file into the buffer like an array or etc. 
+		We are using that function as below and again by fp we set in the first description.
+</p>
