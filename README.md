@@ -1,9 +1,21 @@
 # file-handling-basics-in-C
 ### Some operations about file handling in C language
 <br>
+<strong>fopen();</strong>
+<br>
+<p>
+	This function is used to open a file in fact creates a file. It has some modes like r, w, a.
+</p>
+<br>
+<pre>
+	Syntax of fopen():
+	FILE *fp;
+	fp = fopen("filename","mode");
+</pre>
 <strong>fclose():</strong>
 <br>
-<p>This function closes the file of pointed by file pointer fp in the first description</p>
+<p>
+	This function closes the file of pointed by file pointer fp in the first description</p>
 <br>
 <pre>
 	Syntax of fclose();
@@ -24,7 +36,7 @@
 <strong>fprintf();</strong>
 <br>
 <p>
-This function writes string into the file by using the fp. We use that in a C program below.
+	This function writes string into the file by using the fp. We use that in a C program below.
 </p>
 <br>
 <pre>
