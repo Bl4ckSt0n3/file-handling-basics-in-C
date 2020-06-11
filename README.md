@@ -1,4 +1,4 @@
-# file-handling-basics-in-C
+# File handling in C and summary descriptions.
 ### Some operations about file handling in C language
 <br>
 <strong>fopen();</strong>
