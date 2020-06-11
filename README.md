@@ -5,7 +5,7 @@
 <br>
 <p>This function closes the file of pointed by file pointer fp in the first description</p>
 <br>
-<lu>
-	<li>Syntax of fclose();</li>
-	<li>fclose(fp);</li>
-</lu>	   	
+<pre>
+Syntax of fclose();
+fclose(fp);
+</pre>
